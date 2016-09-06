@@ -1,0 +1,83 @@
+ColorColumn: '- fondocursor'
+Conceal: ''
+Cursor: ''
+CursorIM: ''
+CursorColumn: '@CursorLine'
+CursorLine: '- fondocursor'
+CursorLineNr: 'blue2 - '
+Directory: 'blue1 -'
+DiffAdd: 'text green2'
+DiffChange: 'text blue2'
+DiffDelete: 'bg red1'
+DiffText: 'blue2 text b'
+ErrorMsg: 'red1 - r'
+VertSplit: 'bg bg'
+Folded: 'grisoscuro darker'
+FoldColumn: 'grisoscuro darker'
+SignColumn: ''
+IncSearch: 'bg highlighted'
+LineNr: 'plomo -'
+MatchParen: 'red1 - b'
+ModeMsg: ''
+MoreMsg: ''
+NonText: 'plomo -'
+Normal: 'text bg'
+PMenu: 'bg blue2'
+PMenuSel: 'bg green1'
+PmenuSbar: 'yellow1 yellow1'
+PmenuThumb: 'yellow2 yellow2'
+Question: 'green1 -'
+Search: 'highlighted - ub'
+SpecialKey: 'blue2'
+SpellBad: 'red1'
+SpellLocal: 'yellow1'
+SpellCap: 'yellow2'
+SpellRare: 'blue2'
+StatusLine: 'bg blue2 b'
+StatusLineNC: 'bg grisoscuro b'
+TabLine: 'gris plomo'
+TabLineFill: '- plomo'
+TabLineSel: 'green1 - b'
+Title: 'blue1 - b'
+Visual: '- darkest'
+VisualNOS: ''
+WarningMsg: 'red1 -'
+WildMenu: 'bg green1 b'
+Comment: 'grisoscuro'
+Constant: 'yellow2 -'
+String: 'yellow1 -' # Constant
+Character: 'yellow2 -' # Constant
+Boolean: 'yellow2 -' # Constant
+Number: 'yellow2 -' # Constant
+Float: 'yellow2 -' # Constant
+Identifier: 'blue1 -'
+Function: 'blue1 -' # Identifier
+Statement: 'blue1 -'
+Conditional: 'green1 -' # Statement
+Repeat: '' # Statement
+Label: '' # Statement
+Operator: 'red1 -' # Statement
+Keyword: '' # Statement
+Exception: 'red1 -' # Statement
+PreProc: 'green1 -'
+Include: '' # PreProc
+Define: '' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: 'blue2 - '
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: 'blue2 -'
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: '' # Special
+SpecialComment: '' # Special
+Debug: '' # Special
+Underlined: '- - u'
+Ignore: ''
+Error: 'text red1'
+Todo: 'red1 - b'
+
+
+
